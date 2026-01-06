@@ -1,2 +1,4 @@
-# first-learning-projects
-My first coding and learning projects
+Hi, I’m Jaylon.
+
+This repository contains my first learning projects.
+I am learning coding and game development.
